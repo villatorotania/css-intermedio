@@ -206,6 +206,7 @@ body {
     order: 1;
 }
 
+/* puntos de quiebre */
 @media (min-width: 576px) {
     .nosotros-col-img {
         height: 31.75em;
