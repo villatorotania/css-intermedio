@@ -59,7 +59,7 @@ body {
 /* header */
 
 .bg-header {
-    background-image: url("./img/bg-header-min.jpg");
+    background-image: url("../img/bg-header-min.jpg");
     height: 18.75em;
     background-repeat: no-repeat;
     background-position: center;
@@ -191,7 +191,7 @@ body {
 }
 
 .nosotros-col-img {
-    background-image: url("./img/nosotros-min.png");
+    background-image: url("../img/nosotros-min.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
